@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EcommerceAi.Application/EcommerceAi.Application.csproj" />
+  <Project Path="EcommerceAi.Core/EcommerceAi.Core.csproj" />
+  <Project Path="EcommerceAi.Infrastructure/EcommerceAi.Infrastructure.csproj" />
+  <Project Path="EcommerceAi/EcommerceAi.API.csproj" />
+</Solution>

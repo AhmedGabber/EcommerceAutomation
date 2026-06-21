@@ -1,0 +1,11 @@
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\bin\Debug\net9.0\EcommerceAi.Core.deps.json
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\bin\Debug\net9.0\EcommerceAi.Core.dll
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\bin\Debug\net9.0\EcommerceAi.Core.pdb
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\obj\Debug\net9.0\EcommerceAi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\obj\Debug\net9.0\EcommerceAi.Core.AssemblyInfoInputs.cache
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\obj\Debug\net9.0\EcommerceAi.Core.AssemblyInfo.cs
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\obj\Debug\net9.0\EcommerceAi.Core.csproj.CoreCompileInputs.cache
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\obj\Debug\net9.0\EcommerceAi.Core.dll
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\obj\Debug\net9.0\refint\EcommerceAi.Core.dll
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\obj\Debug\net9.0\EcommerceAi.Core.pdb
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Core\obj\Debug\net9.0\ref\EcommerceAi.Core.dll

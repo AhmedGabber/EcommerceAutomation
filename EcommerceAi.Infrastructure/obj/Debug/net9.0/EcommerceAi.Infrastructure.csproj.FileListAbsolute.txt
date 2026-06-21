@@ -1,0 +1,17 @@
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\bin\Debug\net9.0\EcommerceAi.Infrastructure.deps.json
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\bin\Debug\net9.0\EcommerceAi.Infrastructure.runtimeconfig.json
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\bin\Debug\net9.0\EcommerceAi.Infrastructure.dll
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\bin\Debug\net9.0\EcommerceAi.Infrastructure.pdb
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\bin\Debug\net9.0\EcommerceAi.Core.dll
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\bin\Debug\net9.0\EcommerceAi.Core.pdb
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\EcommerceAi.Infrastructure.csproj.AssemblyReference.cache
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\EcommerceAi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\EcommerceAi.Infrastructure.AssemblyInfoInputs.cache
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\EcommerceAi.Infrastructure.AssemblyInfo.cs
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\EcommerceAi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\Ecommerc.326CA74A.Up2Date
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\EcommerceAi.Infrastructure.dll
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\refint\EcommerceAi.Infrastructure.dll
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\EcommerceAi.Infrastructure.pdb
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\EcommerceAi.Infrastructure.genruntimeconfig.cache
+D:\EcommerceAi\EcommerceAi\EcommerceAi.Infrastructure\obj\Debug\net9.0\ref\EcommerceAi.Infrastructure.dll

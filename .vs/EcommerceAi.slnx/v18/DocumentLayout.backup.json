@@ -1,0 +1,1277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EcommerceAi\\EcommerceAi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\ollamadtos\\ollamaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\ollamadtos\\ollamaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\iservices\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\iservices\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\iservices\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\iservices\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\aidtos\\aiactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\aidtos\\aiactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\aidtos\\aichatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\aidtos\\aichatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\aidtos\\aichatrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\aidtos\\aichatrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\orderdtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\orderdtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\implimentation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\implimentation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\iservices\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\iservices\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\iservices\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\iservices\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\implimentation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\implimentation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.core\\domain models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|solutionrelative:ecommerceai.core\\domain models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\iservices\\ishipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\iservices\\ishipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\implimentation\\shipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\implimentation\\shipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\services\\shipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\services\\shipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\ollamadtos\\ollamarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\ollamadtos\\ollamarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.core\\domain models\\enums\\intenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|solutionrelative:ecommerceai.core\\domain models\\enums\\intenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\controllers\\shipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\controllers\\shipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\interfaces\\ishipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\interfaces\\ishipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\shipmentdtos\\delayshipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\shipmentdtos\\delayshipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\shipmentdtos\\updateshipmentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\shipmentdtos\\updateshipmentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\shipmentdtos\\createshipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\shipmentdtos\\createshipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\shipmentdtos\\shipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\shipmentdtos\\shipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.core\\domain models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|solutionrelative:ecommerceai.core\\domain models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.core\\domain models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|solutionrelative:ecommerceai.core\\domain models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\configurations\\shipmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\configurations\\shipmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\seed\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\seed\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.core\\domain models\\enums\\shipmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|solutionrelative:ecommerceai.core\\domain models\\enums\\shipmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.core\\domain models\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|solutionrelative:ecommerceai.core\\domain models\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528150213_FixCustomerOrderRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceAi.Infrastructure\\Migrations\\20260528150213_FixCustomerOrderRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528142629_AddCustomerOrdersRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceAi.Infrastructure\\Migrations\\20260528142629_AddCustomerOrdersRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528003104_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceAi.Infrastructure\\Migrations\\20260528003104_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528001653_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceAi.Infrastructure\\Migrations\\20260528001653_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\customerdtos\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\customerdtos\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\customerdtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\customerdtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\customerdtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\customerdtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\orderdtos\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\orderdtos\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\orderdtos\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\orderdtos\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\orderdtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\orderdtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\orderdtos\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\orderdtos\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\implimentation\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\implimentation\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\interfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\interfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\inventorydtos\\updateinventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\inventorydtos\\updateinventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\inventorydtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\inventorydtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\productdtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\productdtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\repositories\\implimentation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\repositories\\implimentation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.application\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7526963-CD71-0133-B385-FE740301441E}|EcommerceAi.Application\\EcommerceAi.Application.csproj|solutionrelative:ecommerceai.application\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai\\ecommerceai.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29F6A72E-47A1-BE1B-2016-63008745FC90}|EcommerceAi\\EcommerceAi.API.csproj|solutionrelative:ecommerceai\\ecommerceai.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.core\\domain models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|solutionrelative:ecommerceai.core\\domain models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.core\\domain models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|solutionrelative:ecommerceai.core\\domain models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.core\\domain models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12291B55-1B99-C9DA-D82B-A84ACDCC667E}|EcommerceAi.Core\\EcommerceAi.Core.csproj|solutionrelative:ecommerceai.core\\domain models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|d:\\ecommerceai\\ecommerceai\\ecommerceai.infrastructure\\migrations\\20260603210007_addshipmentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B1B192-CE4F-3AEB-E1F5-AAC0952C6098}|EcommerceAi.Infrastructure\\EcommerceAi.Infrastructure.csproj|solutionrelative:ecommerceai.infrastructure\\migrations\\20260603210007_addshipmentmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\AIService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Services\\AIService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\AIService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Services\\AIService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAA6wIMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:14:12.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AiActionDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\AiDtos\\AiActionDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\AiDtos\\AiActionDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\AiDtos\\AiActionDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\AiDtos\\AiActionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T13:32:48.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOllamaService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IOllamaService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\IServices\\IOllamaService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IOllamaService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\IServices\\IOllamaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:21:05.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OllamaService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\OllamaService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Services\\OllamaService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\OllamaService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Services\\OllamaService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:21:22.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceAi\\Program.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Program.cs",
+              "RelativeToolTip": "EcommerceAi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T23:29:48.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAIService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IAIService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\IServices\\IAIService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IAIService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\IServices\\IAIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:13:50.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OllamaResponse.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OllamaDtos\\OllamaResponse.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\OllamaDtos\\OllamaResponse.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OllamaDtos\\OllamaResponse.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\OllamaDtos\\OllamaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:20:46.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "EcommerceAi\\Controllers\\AIController.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\AIController.cs",
+              "RelativeToolTip": "EcommerceAi\\Controllers\\AIController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:15:26.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\IServices\\IOrderService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IOrderService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\IServices\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:06:52.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AiChatResponseDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\AiDtos\\AiChatResponseDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\AiDtos\\AiChatResponseDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\AiDtos\\AiChatResponseDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\AiDtos\\AiChatResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:13:33.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AiChatRequestDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\AiDtos\\AiChatRequestDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\AiDtos\\AiChatRequestDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\AiDtos\\AiChatRequestDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\AiDtos\\AiChatRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:13:16.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\OrderDtos\\OrderItemDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\OrderItemDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\OrderDtos\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:05:19.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\OrderDtos\\OrderDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\OrderDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\OrderDtos\\OrderDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:05:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Services\\OrderService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAADwv8IAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:07:08.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\OrderRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\OrderRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\OrderRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA/wDsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:06:32.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:06:17.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv2kAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:22:35.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Services\\InventoryService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\InventoryService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Services\\InventoryService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:42:15.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\IServices\\ICustomerService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\ICustomerService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\IServices\\ICustomerService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:22:12.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\IServices\\IInventoryService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IInventoryService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\IServices\\IInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:41:57.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\CustomerRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\CustomerRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\CustomerRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:21:52.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:21:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Core\\Domain Models\\Customer.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Customer.cs",
+              "RelativeToolTip": "EcommerceAi.Core\\Domain Models\\Customer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T23:59:58.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:06:56.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IShipmentService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IShipmentService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\IServices\\IShipmentService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IShipmentService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\IServices\\IShipmentService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:04:46.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShipmentRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\ShipmentRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\ShipmentRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\ShipmentRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\ShipmentRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:04:04.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShipmentService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\ShipmentService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Services\\ShipmentService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\ShipmentService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Services\\ShipmentService.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAswJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:06:33.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OllamaRequest.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OllamaDtos\\OllamaRequest.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\OllamaDtos\\OllamaRequest.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OllamaDtos\\OllamaRequest.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\OllamaDtos\\OllamaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:20:31.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EcommerceAi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EcommerceAi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T21:18:25.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EcommerceAi\\appsettings.Development.json",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\appsettings.Development.json",
+              "RelativeToolTip": "EcommerceAi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-18T13:21:27.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceAi\\appsettings.json",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\appsettings.json",
+              "RelativeToolTip": "EcommerceAi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T00:07:38.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IntentType.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Enums\\IntentType.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Core\\Domain Models\\Enums\\IntentType.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Enums\\IntentType.cs",
+              "RelativeToolTip": "EcommerceAi.Core\\Domain Models\\Enums\\IntentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:25:06.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ShipmentController.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\ShipmentController.cs",
+              "RelativeDocumentMoniker": "EcommerceAi\\Controllers\\ShipmentController.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\ShipmentController.cs",
+              "RelativeToolTip": "EcommerceAi\\Controllers\\ShipmentController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv1EAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:07:08.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IShipmentRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IShipmentRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IShipmentRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IShipmentRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IShipmentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:03:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DelayShipmentDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ShipmentDtos\\DelayShipmentDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\ShipmentDtos\\DelayShipmentDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ShipmentDtos\\DelayShipmentDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\ShipmentDtos\\DelayShipmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:01:56.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateShipmentStatusDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ShipmentDtos\\UpdateShipmentStatusDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\ShipmentDtos\\UpdateShipmentStatusDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ShipmentDtos\\UpdateShipmentStatusDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\ShipmentDtos\\UpdateShipmentStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:01:44.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateShipmentDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ShipmentDtos\\CreateShipmentDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\ShipmentDtos\\CreateShipmentDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ShipmentDtos\\CreateShipmentDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\ShipmentDtos\\CreateShipmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:01:32.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShipmentDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ShipmentDtos\\ShipmentDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\ShipmentDtos\\ShipmentDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ShipmentDtos\\ShipmentDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\ShipmentDtos\\ShipmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:01:15.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20260603210007_AddShipmentModule.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260603210007_AddShipmentModule.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Migrations\\20260603210007_AddShipmentModule.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260603210007_AddShipmentModule.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Migrations\\20260603210007_AddShipmentModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:00:07.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShipmentConfiguration.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\ShipmentConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Configurations\\ShipmentConfiguration.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\ShipmentConfiguration.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Configurations\\ShipmentConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T20:55:44.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Shipment.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Core\\Domain Models\\Shipment.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Shipment.cs",
+              "RelativeToolTip": "EcommerceAi.Core\\Domain Models\\Shipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T20:53:51.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ShipmentStatus.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Enums\\ShipmentStatus.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Core\\Domain Models\\Enums\\ShipmentStatus.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Enums\\ShipmentStatus.cs",
+              "RelativeToolTip": "EcommerceAi.Core\\Domain Models\\Enums\\ShipmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T20:53:28.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Order.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Core\\Domain Models\\Order.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Order.cs",
+              "RelativeToolTip": "EcommerceAi.Core\\Domain Models\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:01:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Seed\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Seed\\DbInitializer.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Seed\\DbInitializer.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Seed\\DbInitializer.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAADwv78AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:29:51.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\DBContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\DBContext\\AppDbContext.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\DBContext\\AppDbContext.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\DBContext\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:05:47.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20260528150213_FixCustomerOrderRelation.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528150213_FixCustomerOrderRelation.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Migrations\\20260528150213_FixCustomerOrderRelation.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528150213_FixCustomerOrderRelation.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Migrations\\20260528150213_FixCustomerOrderRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:02:14.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Core\\Domain Models\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "EcommerceAi.Core\\Domain Models\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:00:33.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:28:47.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "EcommerceAi\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "EcommerceAi\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:27:05.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20260528142629_AddCustomerOrdersRelation.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528142629_AddCustomerOrdersRelation.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Migrations\\20260528142629_AddCustomerOrdersRelation.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528142629_AddCustomerOrdersRelation.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Migrations\\20260528142629_AddCustomerOrdersRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:26:30.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateCustomerDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\CustomerDtos\\UpdateCustomerDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\CustomerDtos\\UpdateCustomerDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\CustomerDtos\\UpdateCustomerDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\CustomerDtos\\UpdateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:21:15.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateCustomerDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\CustomerDtos\\CreateCustomerDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\CustomerDtos\\CreateCustomerDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\CustomerDtos\\CreateCustomerDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\CustomerDtos\\CreateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:21:03.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\CustomerDtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\CustomerDtos\\CustomerDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\CustomerDtos\\CustomerDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\CustomerDtos\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:20:45.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UpdateOrderDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\UpdateOrderDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\OrderDtos\\UpdateOrderDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\UpdateOrderDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\OrderDtos\\UpdateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:17:06.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EcommerceAi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EcommerceAi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:48:09.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "EcommerceAi\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "EcommerceAi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:07:30.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateOrderStatusDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\UpdateOrderStatusDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\OrderDtos\\UpdateOrderStatusDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\UpdateOrderStatusDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\OrderDtos\\UpdateOrderStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:05:51.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\OrderDtos\\CreateOrderDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\CreateOrderDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\OrderDtos\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:04:53.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateOrderItemDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\CreateOrderItemDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\OrderDtos\\CreateOrderItemDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\OrderDtos\\CreateOrderItemDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\OrderDtos\\CreateOrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:04:37.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "EcommerceAi\\Controllers\\InventoryController.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "EcommerceAi\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:42:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\InventoryRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\InventoryRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\InventoryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:41:23.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IInventoryRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IInventoryRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IInventoryRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IInventoryRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IInventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:40:58.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UpdateInventoryDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\InventoryDtos\\UpdateInventoryDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\InventoryDtos\\UpdateInventoryDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\InventoryDtos\\UpdateInventoryDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\InventoryDtos\\UpdateInventoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:40:18.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "InventoryDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\InventoryDtos\\InventoryDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\InventoryDtos\\InventoryDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\InventoryDtos\\InventoryDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\InventoryDtos\\InventoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:39:59.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:34:09.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ProductDtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\ProductDtos\\ProductDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ProductDtos\\ProductDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\ProductDtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:33:08.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\IServices\\IProductService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\IServices\\IProductService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:36:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\ProductRepository.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Repositories\\Implimentation\\ProductRepository.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Repositories\\Implimentation\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:36:20.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAxwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:37:17.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Application\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Application\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeToolTip": "EcommerceAi.Application\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:32:55.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20260528003104_InitialCreate.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528003104_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Migrations\\20260528003104_InitialCreate.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528003104_InitialCreate.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Migrations\\20260528003104_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:31:05.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:29:06.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20260528001653_InitialCreate.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528001653_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Migrations\\20260528001653_InitialCreate.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Migrations\\20260528001653_InitialCreate.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Migrations\\20260528001653_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:16:54.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "EcommerceAi.API.csproj",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\EcommerceAi.API.csproj",
+              "RelativeDocumentMoniker": "EcommerceAi\\EcommerceAi.API.csproj",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi\\EcommerceAi.API.csproj",
+              "RelativeToolTip": "EcommerceAi\\EcommerceAi.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T00:14:19.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "EcommerceAi.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:06:21.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Core\\Domain Models\\Inventory.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Inventory.cs",
+              "RelativeToolTip": "EcommerceAi.Core\\Domain Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:02:06.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Core\\Domain Models\\OrderItem.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\OrderItem.cs",
+              "RelativeToolTip": "EcommerceAi.Core\\Domain Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:01:40.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerceAi.Core\\Domain Models\\Product.cs",
+              "ToolTip": "D:\\EcommerceAi\\EcommerceAi\\EcommerceAi.Core\\Domain Models\\Product.cs",
+              "RelativeToolTip": "EcommerceAi.Core\\Domain Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T23:59:32.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

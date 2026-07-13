@@ -1,7 +1,9 @@
 ﻿using EcommerceAi.Core.Domain_Models;
 using EcommerceAi.Core.Domain_Models.Enums;
 using EcommerceAi.Infrastructure.DBContext;
+using EcommerceAi.Infrastructure.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Pgvector;
 
 namespace EcommerceAi.Infrastructure.Seed;
 
@@ -25,7 +27,7 @@ public static class DbInitializer
                     Description = "Apple mobile phone",
                     Price = 1200,
                     IsActive = true,
-                    CreatedAt = DateTime.UtcNow
+                    CreatedAt = DateTime.UtcNow,
                 },
 
                 new Product
@@ -35,7 +37,7 @@ public static class DbInitializer
                     Description = "Samsung flagship phone",
                     Price = 1100,
                     IsActive = true,
-                    CreatedAt = DateTime.UtcNow
+                    CreatedAt = DateTime.UtcNow,
                 },
 
                 new Product
@@ -45,7 +47,7 @@ public static class DbInitializer
                     Description = "Dell laptop",
                     Price = 2000,
                     IsActive = true,
-                    CreatedAt = DateTime.UtcNow
+                    CreatedAt = DateTime.UtcNow,
                 },
 
                 new Product
@@ -55,7 +57,7 @@ public static class DbInitializer
                     Description = "Apple laptop",
                     Price = 2500,
                     IsActive = true,
-                    CreatedAt = DateTime.UtcNow
+                    CreatedAt = DateTime.UtcNow,
                 }
             };
 

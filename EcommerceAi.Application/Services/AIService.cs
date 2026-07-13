@@ -53,12 +53,14 @@ public class AIService : IAIService
         {
             case "GetProducts":
 
-                result =
-                    await _productService.GetAllAsync();
+
+                var products =
+                    await _productService.SearchProductsAsync(request.Message);
+
 
                 return new AiChatResponseDto
                 {
-                    Response ="GetProducts"
+                    Response = JsonSerializer.Serialize(products)
                 };
 
                 break;

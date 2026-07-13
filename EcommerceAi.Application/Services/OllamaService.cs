@@ -1,4 +1,5 @@
-﻿using EcommerceAi.Application.IServices;
+﻿using EcommerceAi.Application.Dtos.ProductDtos;
+using EcommerceAi.Application.IServices;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -41,5 +42,60 @@ namespace EcommerceAi.Application.Services
                 .GetProperty("response")
                 .GetString()!;
         }
+
+        public async Task<List<string>> ExtractKeywordsAsync(string message)
+        {
+            var prompt =
+            $$"""
+You are an ecommerce keyword extractor.
+
+Your task is to extract search keywords from the user's message.
+
+Return ONLY valid JSON.
+
+The JSON MUST exactly follow this schema:
+
+{
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ]
+}
+
+Rules:
+- Do not return objects.
+- Do not return explanations.
+- Do not return markdown.
+- Do not return extra text.
+- Do not invent products.
+- Return at most 5 keywords.
+- Keep only important search terms.
+- If there are no keywords return:
+
+{
+  "keywords": []
+}
+
+User Message:
+{{message}}
+
+JSON:
+""";
+
+            var response = await AskAsync(prompt);
+
+            var result = JsonSerializer.Deserialize<ProductSearchKeywordsDto>(
+                response,
+                new JsonSerializerOptions
+                {
+
+                    PropertyNameCaseInsensitive = true
+                });
+
+            return result?.Keywords ?? [];
+        }
+
+
     }
 }

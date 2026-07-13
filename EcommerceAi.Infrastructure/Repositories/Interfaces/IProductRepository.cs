@@ -1,4 +1,5 @@
 ﻿using EcommerceAi.Core.Domain_Models;
+using Pgvector;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,5 +19,9 @@ namespace EcommerceAi.Infrastructure.Repositories.Interfaces
         Task UpdateAsync(Product product);
 
         Task DeleteAsync(Product product);
+
+        Task<List<Product>> SearchByLikeAsync(List<string> keywords);
+
+        Task<List<Product>> SearchSimilarAsync(Vector vector);
     }
 }

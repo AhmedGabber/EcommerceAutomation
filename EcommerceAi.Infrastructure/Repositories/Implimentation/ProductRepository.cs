@@ -2,6 +2,9 @@
 using EcommerceAi.Infrastructure.DBContext;
 using EcommerceAi.Infrastructure.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Pgvector;
+using Pgvector.EntityFrameworkCore;
+using LinqKit;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -48,6 +51,32 @@ namespace EcommerceAi.Infrastructure.Repositories.Implimentation
             _context.Products.Remove(product);
 
             await _context.SaveChangesAsync();
+        }
+
+        public async Task<List<Product>> SearchSimilarAsync(Vector vector)
+        {
+            return await _context.Products
+                .OrderBy(p => p.Embedding!.CosineDistance(vector))
+                .Take(5)
+                .ToListAsync();
+        }
+
+
+        public async Task<List<Product>> SearchByLikeAsync(List<string> keywords)
+        {
+            var predicate = PredicateBuilder.New<Product>(false);
+
+            foreach (var keyword in keywords)
+            {
+                predicate = predicate.Or(p =>
+                    EF.Functions.ILike(p.Name, $"%{keyword}%") ||
+                    EF.Functions.ILike(p.Description, $"%{keyword}%"));
+            }
+
+            return await _context.Products
+                .Where(predicate)
+                .Take(5)
+                .ToListAsync();
         }
     }
 }

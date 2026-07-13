@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace EcommerceAi.Application.IServices
 {
-    public interface IOllamaService
+    public interface IEmbeddingService
     {
-        Task<string> AskAsync(string prompt);
-        Task<List<string>> ExtractKeywordsAsync(string message);
+        Task<float[]> GenerateEmbeddingAsync(string text);
     }
 }

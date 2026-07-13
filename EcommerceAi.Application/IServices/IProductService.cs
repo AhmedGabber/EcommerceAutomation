@@ -18,5 +18,7 @@ namespace EcommerceAi.Application.IServices
         Task UpdateAsync(Guid id, CreateProductDto dto);
 
         Task DeleteAsync(Guid id);
+
+        Task<List<ProductDto>> SearchProductsAsync(string message);
     }
 }

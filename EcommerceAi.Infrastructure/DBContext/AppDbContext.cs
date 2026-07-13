@@ -1,6 +1,7 @@
 ﻿using EcommerceAi.Core.Domain_Models;
 using Microsoft.EntityFrameworkCore;
 using System;
+using Pgvector.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -30,8 +31,19 @@ namespace EcommerceAi.Infrastructure.DBContext
         {
             base.OnModelCreating(modelBuilder);
 
+            modelBuilder.HasPostgresExtension("vector");
+
             modelBuilder.ApplyConfigurationsFromAssembly(
                 typeof(AppDbContext).Assembly);
+
+            modelBuilder.Entity<Product>()
+                .Property(x => x.Embedding)
+                .HasColumnType("vector(768)");
+
+            modelBuilder.Entity<Product>()
+                .HasIndex(x => x.Embedding)
+                .HasMethod("hnsw")
+                .HasOperators("vector_cosine_ops");
         }
     }
 }

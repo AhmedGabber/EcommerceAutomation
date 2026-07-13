@@ -7,12 +7,17 @@ using EcommerceAi.Infrastructure.Repositories.Implimentation;
 using EcommerceAi.Infrastructure.Repositories.Interfaces;
 using EcommerceAi.Infrastructure.Seed;
 using Microsoft.EntityFrameworkCore;
+using Pgvector.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(
-        builder.Configuration.GetConnectionString("DefaultConnection")));
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        npgsqlOptions =>
+        {
+            npgsqlOptions.UseVector();
+        }));
 
 builder.Services.AddControllers();
 
@@ -54,6 +59,8 @@ builder.Services.AddScoped<IAIServiceTool, GetProductsTool>();
 builder.Services.AddScoped<IAIServiceTool, TrackShipmentTool>();
 
 builder.Services.AddScoped<IToolRegistry, ToolRegistry>();
+
+builder.Services.AddScoped<IEmbeddingService, OllamaEmbeddingService>();
 
 var app = builder.Build();
 
